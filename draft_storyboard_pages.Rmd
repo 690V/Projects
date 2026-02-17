@@ -13,7 +13,7 @@ Sidebar {.sidebar}
 =====================================
 
 
-Preparing the dashboard based on the instructions given at @magallanes_reyes_data_2022, and @aden-buie_flexdashboard_2023.
+Preparing the dashboard based on the instructions given at @magallanes_reyes_data_2022, and @aden-buie_flexdashboard_2026.
 
 Chapter 1
 ===================================== 
